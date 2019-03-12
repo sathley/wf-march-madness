@@ -1,0 +1,2 @@
+## Historical Tournament Data
+This dataset contains all of the results from past NCAA March Madness tournaments. It was pulled directly from [this repository](https://github.com/danvk/march-madness-data) and contains data in a json format. Refer to the author's original documentation (on github) for instructions on how to interpret the dataset. 
